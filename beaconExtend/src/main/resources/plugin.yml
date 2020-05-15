@@ -1,0 +1,4 @@
+name: beaconExtend
+version: 1.0
+main: io.github.izabella197.BeaconExtend
+description: Plugin to extend reach of beacon by adding more layers to the pyramid
